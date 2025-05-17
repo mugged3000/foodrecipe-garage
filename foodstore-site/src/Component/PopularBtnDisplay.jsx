@@ -2,19 +2,19 @@
 
 import React, { useState } from "react";
 const popularCartgory = [
-    { title: "Classic Burger", image: "/icetea.jpg", category: "Burger", rating: 5 },
-    { title: "Margherita Pizza", image: "/maki.jpg", category: "Pizza", rating: 4 },
-    { title: "Chicken Wrap", image: "/rice3.jpg", category: "Snacks", rating: 4 },
-    { title: "Fresh Salad", image: "/buger3.jpg", category: "Snacks", rating: 3 },
-    { title: "French Fries", image: "/coffe.jpg", category: "Snacks", rating: 5 },
-    { title: "Iced Coffee", image: "/drinks-fruit.jpg", category: "Drinks", rating: 4 },
-    { title: "Fruit Smoothie", image: "/delicuos.jpg", category: "Drinks", rating: 5 },
-    { title: "Fried Chicken", image: "/spag.jpg", category: "Burger", rating: 4 },
-    { title: "Cheese Sandwich", image: "/close-up.jpg", category: "Snacks", rating: 3 },
-    { title: "Chocolate Cake", image: "/side-view.jpg", category: "Dessert", rating: 5 },
-    { title: "Chocolate Cake", image: "/rice4.jpg", category: "Dessert", rating: 5 },
-    { title: "Chocolate Cake", image: "/rice5.jpg", category: "Dessert", rating: 5 },
-    { title: "Chocolate Cake", image: "/rice6.jpg", category: "Dessert", rating: 5 },
+    { title: "Classic Burger", image: "/foodrecipe-garage/icetea.jpg", category: "Burger", rating: 5 },
+    { title: "Margherita Pizza", image: "/foodrecipe-garage/maki.jpg", category: "Pizza", rating: 4 },
+    { title: "Chicken Wrap", image: "/foodrecipe-garage/rice3.jpg", category: "Snacks", rating: 4 },
+    { title: "Fresh Salad", image: "/foodrecipe-garage/buger3.jpg", category: "Snacks", rating: 3 },
+    { title: "French Fries", image: "/foodrecipe-garage/coffe.jpg", category: "Snacks", rating: 5 },
+    { title: "Iced Coffee", image: "/foodrecipe-garage/drinks-fruit.jpg", category: "Drinks", rating: 4 },
+    { title: "Fruit Smoothie", image: "/foodrecipe-garage/delicuos.jpg", category: "Drinks", rating: 5 },
+    { title: "Fried Chicken", image: "/foodrecipe-garage/spag.jpg", category: "Burger", rating: 4 },
+    { title: "Cheese Sandwich", image: "/foodrecipe-garage/close-up.jpg", category: "Snacks", rating: 3 },
+    { title: "Chocolate Cake", image: "/foodrecipe-garage/side-view.jpg", category: "Dessert", rating: 5 },
+    { title: "Chocolate Cake", image: "/foodrecipe-garage/rice4.jpg", category: "Dessert", rating: 5 },
+    { title: "Chocolate Cake", image: "/foodrecipe-garage/rice5.jpg", category: "Dessert", rating: 5 },
+    { title: "Chocolate Cake", image: "/foodrecipe-garage/rice6.jpg", category: "Dessert", rating: 5 },
   ];
   
   

@@ -66,7 +66,7 @@ const Mainsection = ({searchTerm}) => {
           {/* Right Side */}
           <div className="col-lg-6 col-md-6 col-12 text-center order-lg-2 order-md-2 order-1">
             <img 
-              src="/buger6.jpg" 
+              src="/foodrecipe-garage/buger6.jpg" 
               className="img-fluid rounded w-100 animate__animated animate__zoomIn" 
               style={{ maxHeight: '450px', objectFit: 'cover' }} 
               alt="burger" 

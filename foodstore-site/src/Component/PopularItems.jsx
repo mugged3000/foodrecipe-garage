@@ -4,16 +4,16 @@
 import React from "react";
 
 const popularItems = [
-  { title: "Classic Burger", image: "/icetea.jpg" },
-  { title: "Margherita Pizza", image: "/maki.jpg" },
-  { title: "Chicken Wrap", image: "/side-view.jpg" },
-  { title: "Fresh Salad", image: "/buger3.jpg" },
-  { title: "French Fries", image: "/coffe.jpg" },
-  { title: "Iced Coffee", image: "/drinks-fruit.jpg" },
-  { title: "Fruit Smoothie", image: "/delicuos.jpg" },
-  { title: "Fried Chicken", image: "/spag.jpg" },
-  { title: "Cheese Sandwich", image: "/close-up.jpg" },
-  { title: "Chocolate Cake", image: "/snacks2.jpg" },
+  { title: "Classic Burger", image: "/foodrecipe-garage/icetea.jpg" },
+  { title: "Margherita Pizza", image: "/foodrecipe-garage/maki.jpg" },
+  { title: "Chicken Wrap", image: "/foodrecipe-garage/side-view.jpg" },
+  { title: "Fresh Salad", image: "/foodrecipe-garage/buger3.jpg" },
+  { title: "French Fries", image: "/foodrecipe-garage/coffe.jpg" },
+  { title: "Iced Coffee", image: "/foodrecipe-garage/drinks-fruit.jpg" },
+  { title: "Fruit Smoothie", image: "/foodrecipe-garage/delicuos.jpg" },
+  { title: "Fried Chicken", image: "/foodrecipe-garage/spag.jpg" },
+  { title: "Cheese Sandwich", image: "/foodrecipe-garage/close-up.jpg" },
+  { title: "Chocolate Cake", image: "/foodrecipe-garage/snacks2.jpg" },
 ];
 
 const PopularMenu = ({searchTerm}) => {

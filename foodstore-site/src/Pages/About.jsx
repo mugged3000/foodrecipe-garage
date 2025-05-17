@@ -3,7 +3,7 @@ import React from "react";
 
 const TopSeller = [
   {
-    image: "/buger5.jpg",
+    image: "/foodrecipe-garage/buger5.jpg",
     text: "Rancho Burger",
     taste: "Delicious Burger",
     price: 1400,

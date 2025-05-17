@@ -3,14 +3,14 @@ import React from "react";
 import useScrollToResult from "../pages/PageScroll"
 import PopularMenu from "../Component/PopularItems"
 const FoodsStore = [
-  { title: "Burger", image: "/rice1.jpg" },
-  { title: "Burger", image: "/rice2.jpg" },
-  { title: "Burger", image: "/rice3.jpg" },
+  { title: "Burger", image: "/foodrecipe-garage/rice1.jpg" },
+  { title: "Burger", image: "/foodrecipe-garage/rice2.jpg" },
+  { title: "Burger", image: "/foodrecipe-garage/rice3.jpg" },
   { title: "Pizza", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo_JMT1ZvwUNMHneItLQcNgYbwRsSs2mqYA&s" },
   { title: "Salad", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4EkloJlvBMpQabC7FkJQQCC9C1syzqmqhMg&s" },
   { title: "Fries", image: "https://sausagemaker.com/wp-content/uploads/Homemade-French-Fries_8.jpg" },
-  { title: "Drinks", image: "/drinks.jpg" },
-  { title: "Snacks", image: "/snacks1.jpg" }
+  { title: "Drinks", image: "/foodrecipe-garage/drinks.jpg" },
+  { title: "Snacks", image: "/foodrecipe-garage/snacks1.jpg" }
 ];
 
 const FoodCard = ({searchTerm}) => {
