@@ -24,7 +24,7 @@ const popularCartgory = [
   
     const handleCategoryChange = (category) => {
       setSelectedCategory(category);
-    };
+    };  
   
     const filteredFoods = popularCartgory.filter((food) => {
       const matchesSearch = food.title.toLowerCase().includes(searchTerm.toLowerCase());
