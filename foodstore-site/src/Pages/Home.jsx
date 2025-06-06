@@ -1,7 +1,7 @@
 
 
 import React from "react";
-import useScrollToResult from "../pages/PageScroll"
+import useScrollToResult from "../Pages/PageScroll"
 import PopularBtnPage from "../Component/PopularBtnDisplay"; 
 
 

@@ -1,6 +1,6 @@
 
 import React from "react";
-import useScrollToResult from "../pages/PageScroll"
+import useScrollToResult from "../Pages/PageScroll"
 import PopularMenu from "../Component/PopularItems"
 const FoodsStore = [
   { title: "Burger", image: "/rice1.jpg" },
