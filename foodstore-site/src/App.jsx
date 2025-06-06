@@ -13,7 +13,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState(""); 
       // const [] = useState()
   return (
-    <Router  basename="/foodrecipe-garage">
+    <Router>
       <Navbar searchTerm={searchTerm} setSearchTerm={setSearchTerm} /> 
       
       <Routes>
