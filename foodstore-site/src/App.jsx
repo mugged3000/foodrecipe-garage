@@ -1,4 +1,4 @@
-import React, { useState } from "react";  // 👈 import useState
+import React, { useState } from "react";  
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Component/Navbar";
 import FooterSection from "./Component/Footer";
